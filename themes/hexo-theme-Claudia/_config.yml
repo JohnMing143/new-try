@@ -23,7 +23,7 @@ social:
 user:
   name: JohnMing
   avatar:
-  location: In the dust
+  location: In your heart
   description: May the Force be with you
   footnotes: # footnotes
 
@@ -75,3 +75,4 @@ about_pic: about.png
 
 image_zoom:
   enable: true
+
