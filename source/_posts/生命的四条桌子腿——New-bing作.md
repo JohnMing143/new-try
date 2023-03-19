@@ -58,4 +58,6 @@ tags: AI写作
 
 我爱你。
 
+![cover](images/love.png)
+
 ### 传下去，New Bing不会写BE
