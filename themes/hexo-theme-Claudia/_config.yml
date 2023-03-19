@@ -30,7 +30,7 @@ user:
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
 comment_utteranc:
-  enable: true
+  enable: false
   repo: JohnMing143/Claudia-theme-blog # your blog repo
 
 
