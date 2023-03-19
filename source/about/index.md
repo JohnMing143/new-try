@@ -1,10 +1,10 @@
 ---
 title: about
-date: 2020-12-21 17:21:33
+date: 2023-30-19 14:55:0
 layout: about
 ---
 
-## Diskobólos
+## About Blog
 
 这是一个中度段落，用专业型的风格来介绍 https://ming.nofated.win/ 网址的内容。
 
