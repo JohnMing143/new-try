@@ -23,7 +23,7 @@ social:
 user:
   name: JohnMing
   avatar:
-  location: In the dust
+  location: In your heart
   description: May the Force be with you
   footnotes: # footnotes
 
@@ -58,8 +58,8 @@ friend_links:
     link: https://www.google.com/
   - title: Github
     link: https://www.github.com/
-  - title: V2EX
-    link: https://v2ex.com/
+  - title: Nofated
+    link: https://blog.nofated.win
   - title: Twitter
     link: https://twitter.com/
 
@@ -75,3 +75,8 @@ about_pic: about.png
 
 image_zoom:
   enable: true
+
+# 1.light 
+# 2.dark
+# 3.auto (默认，跟随系统外观)
+appearance: auto
