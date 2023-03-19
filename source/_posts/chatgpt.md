@@ -68,6 +68,5 @@ can answer correctly.
 -The model is often excessively verbose and overuses certain phrases such as restating that it’s a language model trained by OpenAI.
 
 
-## What are some applications of ChatGPT?
 
-ChatGPT has many potential applications across different domains and industries:
+
