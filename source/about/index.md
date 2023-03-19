@@ -6,6 +6,8 @@ layout: about
 
 ## About Blog
 
+![cover](images/about.jpg)
+
 这是一个中度段落，用专业型的风格来介绍 https://ming.nofated.win/ 网址的内容。
 
 https://ming.nofated.win/ 是 Ming 的个人博客，主要记录了他的日常生活、写 BUG 日常、野生技术协会、学业、游戏和番剧等方面的内容。 该网站使用 VuePress 2.0.0 构建，并部署到 Vercel 平台上。 该网站已进行萌国 ICP 备案，备案号是 萌 ICP 备 20232345 号。 该网站也是 开往-友链接力 的成员站点，支持优秀的站点之间互相来往联系。
