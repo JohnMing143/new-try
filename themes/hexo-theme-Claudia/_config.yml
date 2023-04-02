@@ -54,8 +54,8 @@ appearance: auto # Default value is auto
 favicon: images/favicon.ico
 
 friend_links:
-  - title: Google
-    link: https://www.google.com/
+  - title: Ming's house
+    link: https://www.ming143.live/
   - title: Github
     link: https://www.github.com/
   - title: V2EX
